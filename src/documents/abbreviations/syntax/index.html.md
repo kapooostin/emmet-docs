@@ -237,7 +237,7 @@ For comparison, here’s the same abbreviation written without child `>` operato
 	
 ## Notes on abbreviation formatting
 
-When you get familiar with Emmet’s abbreviations syntax, you may want to use some formatting to make your abbreviations more readable. For example, use spaces between elements and operators, like this:
+When you get familiar with Emmet’s abbreviations syntax, you may want to use some formatting to make your abbreviations more readable. For example, you may want to add spaces between elements and operators, like this:
 
 	(header > ul.nav > li*5) + footer
 	
